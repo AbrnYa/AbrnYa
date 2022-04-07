@@ -20,7 +20,7 @@ I can program anything, because i love to code and learn. But i'm already know a
   </a>
   <h4>China: WeChat official account</h4>
   <a href="https://www.abrnya.com">
-    <img src="https://www.abrnya.com/assets/images/WxSoud.jpg" />
+    <img src="https://www.xn--3nu535d9jaa.com/assets/images/WxSoud.jpg" />
   </a>
 </div>
 
