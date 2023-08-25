@@ -13,7 +13,6 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://twitter.com/AbrnYa/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://nbcnm.cn/wx_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/413741859/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://nbcnm.cn/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-8A2BEA" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
@@ -56,15 +55,8 @@
 ### 📊 WakaTime
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AbrnYa&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AbrnYa&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbrnYa&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://wakatime.com/share/@bb229944-58fe-456a-b507-3d8be1f997df/aabec636-bb15-4429-829f-8a08a84073ad.png" />
+  <img src="https://wakatime.com/share/@bb229944-58fe-456a-b507-3d8be1f997df/9d447284-e47d-4d01-bc83-212a907df1f2.png" />
 </picture>
 
 </td></tr>
@@ -248,8 +240,8 @@ mindmap
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@bb229944-58fe-456a-b507-3d8be1f997df/2784e070-909f-4559-a5ed-7f58a0c60ba2.png" /</td>
+    <td><img src="https://wakatime.com/share/@bb229944-58fe-456a-b507-3d8be1f997df/70610aa8-37f1-4281-9cc5-4e11a7ac43e6.png" /></td>
   </tr>
 </table>
 </div>
