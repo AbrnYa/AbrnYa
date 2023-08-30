@@ -56,6 +56,8 @@
 
 <picture>
   <img src="https://wakatime.com/share/@bb229944-58fe-456a-b507-3d8be1f997df/aabec636-bb15-4429-829f-8a08a84073ad.png" />
+</picture>
+<picture>
   <img src="https://wakatime.com/share/@bb229944-58fe-456a-b507-3d8be1f997df/9d447284-e47d-4d01-bc83-212a907df1f2.png" />
 </picture>
 
