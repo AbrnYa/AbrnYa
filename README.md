@@ -14,7 +14,7 @@
   <div align="center">
     <a href="https://twitter.com/AbrnYa/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/413741859/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://nbcnm.cn/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-8A2BEA" /></a>&emsp;
+    <a href="https://nbcnm.cn/"><img src="https://img.shields.io/badge/MyWebsite-%E5%AE%98%E7%BD%91-25c2a0" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=AbrnYa&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
